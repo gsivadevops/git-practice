@@ -6,4 +6,3 @@
 
 # Karam Dosa
 * Dosa Batter
-* Erra Karam
