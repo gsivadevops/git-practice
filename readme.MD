@@ -12,3 +12,9 @@
 * Dosa Batter
 * 1/2 Eggs, Karam, Oil
 
+# Panner Dosa
+* Dosa Batter
+* Panner Curry
+* Carrot Onion
+* Panner and Panner Scrambled
+* Ghee
