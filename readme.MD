@@ -18,3 +18,4 @@
 * Carrot Onion
 * Panner and Panner Scrambled
 * Ghee
+* Light Oil
